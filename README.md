@@ -1,1 +1,1 @@
-This is a place for a custom updator i have made for my programs
+This is a development site for the Crypton and Crypton Pay system
