@@ -1,0 +1,7 @@
+updater
+
+-module based system
+-more robust updating
+-secure update
+-robust starting system
+-security running
